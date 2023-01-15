@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+select{
+    padding: 20px;
+    margin-bottom: 20px ;
+    background-color: rgb(192, 203, 36);
+    border: 2px;
+    border-radius: 5px;
+
+}
+
+button{
+    background-color: rgb(7, 1, 114);
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+value{
+    padding: 10px;
+}
+
+option{
+    padding: 10px;
+}
+
+.resultado{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+}
